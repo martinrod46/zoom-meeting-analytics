@@ -1,0 +1,13 @@
+department_id,department_name,division,cost_center,headcount
+DEPT-001,Engineering,Product & Technology,CC-101,340
+DEPT-002,Product,Product & Technology,CC-102,95
+DEPT-003,Design,Product & Technology,CC-103,60
+DEPT-004,Data & Analytics,Product & Technology,CC-104,75
+DEPT-005,Sales,Revenue,CC-201,210
+DEPT-006,Marketing,Revenue,CC-202,130
+DEPT-007,Customer Success,Revenue,CC-203,185
+DEPT-008,Finance,Operations,CC-301,80
+DEPT-009,Legal,Operations,CC-302,35
+DEPT-010,HR & People,Operations,CC-303,65
+DEPT-011,IT & Security,Operations,CC-304,90
+DEPT-012,Executive,Leadership,CC-401,20
