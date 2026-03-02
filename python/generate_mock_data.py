@@ -1,3 +1,4 @@
+"""
 generate_mock_data.py
 =====================
 Zoom Meeting Analytics Platform — Phase 1: Data Generation
