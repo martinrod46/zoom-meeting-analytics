@@ -45,7 +45,7 @@ CREATE TABLE zoom_departments (
 );
 
 -- Index: Lookups by division (Used in GROUP BY aggregations)
-CREATE INDEX idx_dept_division ON zoom_departments (division)
+CREATE INDEX idx_dept_division ON zoom_departments (division);
 
 -- =============================================================================
 -- TABLE 2: zoom_hosts
